@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(20, 241, 46);
+  }
+  
+  #main-title {
+    color: rgb(222, 37, 101);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #content {
+    margin-bottom: 12px;
+    color:rgb(222, 37, 101);
+    font-family: Arial, Helvetica, sans-serif;
+  }
